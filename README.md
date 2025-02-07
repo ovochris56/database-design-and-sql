@@ -2,6 +2,8 @@
 
 Repository for coursework and projects from  my **Database Design and SQL course (HI520)** at Purdue University Global.
 
+This project focuses on designing and querying a structured relational database using SQL. The database is designed to sample data related to heakthcare. It demonstrates proper schema design, normalization, and efficient querying techniques.
+
 📖Course Description 
 
 This course covers fundamental database design topics in a health care context, including data modeling, entity-relationship diagrams, the top-down database design methodology, the bottomup database design methodology, functional dependencies, and the normalization process. You will learn about Structured Query Language (SQL), which is used to retrieve and modify health
