@@ -4,7 +4,7 @@
 
 Repository for coursework and projects from  my **Database Design and SQL course (HI520)** at Purdue University Global.
 
-This project demonstrates relational database design and SQL querying using SQL Studio. It focuses on creating an efficient schema, normalizing data, and performing queries to retrieve meaningful insights. The database models a healthcare scenario, ensuring data integrity and optimized performance. It focuses on:
+This project demonstrates relational database design and SQL querying using SQL Studio. It focuses on creating an efficient schema, normalizing data, and performing queries to retrieve meaningful insights. The database models a healthcare scenario using sample data, ensuring data integrity and optimized performance. It focuses on:
 
   - Creating an efficient schema with normalized tables.
   - Executing queries to retrieve meaningful insights.
